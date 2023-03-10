@@ -21,7 +21,7 @@ Weather Sensor Rest API service from Alishev's Spring framework course on Java S
 ### How to start
  + Clone repository from Github:
  
-    ```https://github.com/Art3m1y/ScootersOnlineStore.git```
+    ```https://github.com/Art3m1y/WeatherSensorRestAPI.git```
  + Setup Java Development Kit
  + Compile and package the application to an executable JAR
      
