@@ -1,5 +1,5 @@
 ### Description
-Weather Sensor Rest API service from Alishev's Spring framework course on Java Spring framework 3.
+Weather Sensor Rest API service from Alishev's Spring framework course on Java Spring framework 6.
 ### Implemented features
 + Register sensors
 
@@ -15,7 +15,7 @@ Weather Sensor Rest API service from Alishev's Spring framework course on Java S
   ```http://yourhost:7379/measurements/rainyDaysCount```
 ### Technologies
 + Java
-+ Spring 3
++ Spring 6
 + Hibernate
 + PostgreSQL
 ### How to start
